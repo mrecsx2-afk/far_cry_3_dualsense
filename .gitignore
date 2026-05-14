@@ -1,0 +1,7 @@
+# Log files
+*.log
+fc3_triggers.log
+
+# Ini files
+*.ini
+loadout.ini
