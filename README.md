@@ -52,14 +52,10 @@
 
 **Пример моих настроек**
 
-<p align="center">
-  <img src="Photo/dsx_1.png" width="49%">
-  <img src="Photo/dsx_2.png" width="49%">
-</p>
-<p align="center">
-  <img src="Photo/dsx_3.png" width="49%">
-  <img src="Photo/dsx_4.png" width="49%">
-</p>
+| | |
+| :---: | :---: |
+| ![](Photo/dsx_1.png) | ![](Photo/dsx_2.png) |
+| ![](Photo/dsx_3.png) | ![](Photo/dsx_4.png) |
 
 ---
 
@@ -67,11 +63,9 @@
 
 *Отличный вариант, если вы играете без проводов на диване. (в этом случае вам не потребуется настройка со скриншотов выше, но важно, что бы у вас были установленны необходимые драйвера. Они устанавливаются в разделе **Настройки** программы)*
 
-<p align="center">
-  <img src="Photo/dsx_5.png" width="32%">
-  <img src="Photo/dsx_6.png" width="32%">
-  <img src="Photo/dsx_7.png" width="32%">
-</p>
+| | | |
+| :---: | :---: | :---: |
+| ![](Photo/dsx_5.png) | ![](Photo/dsx_6.png) | ![](Photo/dsx_7.png) |
 
 ---
 
